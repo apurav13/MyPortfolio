@@ -47,6 +47,3 @@ npm start
 ```bash
 npm run build
 ```
-
-## 🌟 Credits
-If you like it, feel free to ⭐ this repository and share!
